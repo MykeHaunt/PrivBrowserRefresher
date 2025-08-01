@@ -1,5 +1,17 @@
 # PrivBrowserRefresher
 
+![Build](https://github.com/MykeHaunt/PrivBrowserRefresher/actions/workflows/conda-package.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+![License](https://img.shields.io/github/license/MykeHaunt/PrivBrowserRefresher)
+![Status](https://img.shields.io/badge/status-Beta-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/MykeHaunt/PrivBrowserRefresher)
+![Contributors](https://img.shields.io/github/contributors/MykeHaunt/PrivBrowserRefresher)
+![Issues](https://img.shields.io/github/issues/MykeHaunt/PrivBrowserRefresher)
+![Stars](https://img.shields.io/github/stars/MykeHaunt/PrivBrowserRefresher?style=social)
+![Forks](https://img.shields.io/github/forks/MykeHaunt/PrivBrowserRefresher?style=social)
+
+> **WORK IN PROGRESS BY: H. Pandit**
+
 **PrivBrowserRefresher** is a cross-platform, Python-based tool to:
 - Open a specified URL in multiple **private/incognito** windows or tabs  
 - Support Safari (macOS), Chrome, Firefox and Edge  
