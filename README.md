@@ -1,6 +1,5 @@
 # PrivBrowserRefresher
 
-![Build](https://github.com/MykeHaunt/PrivBrowserRefresher/actions/workflows/conda-package.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![License](https://img.shields.io/github/license/MykeHaunt/PrivBrowserRefresher)
 ![Status](https://img.shields.io/badge/status-Beta-blue.svg)
